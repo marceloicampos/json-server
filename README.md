@@ -1,4 +1,10 @@
 # json-server
 json-server-online
 
-[josn server typicode](https://my-json-server.typicode.com/)
+https://jsonplaceholder.typicode.com/
+
+https://my-json-server.typicode.com/
+
+https://github.com/typicode/json-server
+
+https://github.com/typicode/demo
